@@ -11,6 +11,7 @@
 	padding: 17px 0px;
 }
 
+
 .navbar.navbar-expand-xl.nav_area.sticky.scroll-header .main_menu li a {
 	color: #000;
 	transition: .6s;
