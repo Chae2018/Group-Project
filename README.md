@@ -31,6 +31,7 @@
 
 <h4>스킬</h4>
 <hr color='#D5D5D5'>
+<div>
 <h5>Language</h5>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Jsp-e76f00?style=for-the-badge&logo=Jsp&logoColor=white">
@@ -38,10 +39,13 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+</div>
 <br>
+<div>
 <h5>Library</h5>
 <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=for-the-badge&logo=Spring  Framework&logoColor=white">
+</div>
 <br>
 <h5>Tools</h5>
 <img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=STS&logoColor=white">
