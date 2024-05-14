@@ -2,6 +2,8 @@
 <hr color='#D5D5D5'>
 여행을 계획하는 것에 있어서 다양한 선택지와 새로운 장소에 대한 경험이 부족하여 여행 계획하는 것에 부담을 가지는 사람들을 위하여
 여정을 계획해주는 웹 사이트를 제작하였습니다.
+
+- 팀원들과 구현했던 깃허브 장소 <a href="https://github.com/Trustmeafollowme/travel">
 <h4>개발 기간</h4>
 <hr color='#D5D5D5'>
 <ul>
