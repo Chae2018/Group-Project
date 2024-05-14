@@ -4,6 +4,7 @@
 여정을 계획해주는 웹 사이트를 제작하였습니다.
 
 - 팀원들과 구현했던 깃허브 장소 <a href="https://github.com/Trustmeafollowme/travel"></a>
+<a href="https://naver.com"></a>
 <h4>개발 기간</h4>
 <hr color='#D5D5D5'>
 <ul>
